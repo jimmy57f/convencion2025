@@ -1,0 +1,188 @@
+{
+  "horarios": [
+    {
+      "fecha": "2024-12-21",
+      "nombre": "Día 1 - Viernes",
+      "actividades": [
+        {
+          "id": 1,
+          "hora": "9:00 - 10:00",
+          "nombre": "Culto de Apertura",
+          "descripcion": "Ceremonia de bienvenida y apertura oficial de la convención",
+          "ubicacion": "Auditorio Principal",
+          "tipo": "culto"
+        },
+        {
+          "id": 2,
+          "hora": "10:30 - 12:00",
+          "nombre": "Taller: Liderazgo Cristiano",
+          "descripcion": "Desarrollando líderes según el corazón de Dios",
+          "ubicacion": "Sala de Conferencias A",
+          "tipo": "taller"
+        },
+        {
+          "id": 3,
+          "hora": "12:00 - 13:30",
+          "nombre": "Almuerzo",
+          "descripcion": "Tiempo de comunión y alimentación",
+          "ubicacion": "Comedor Principal",
+          "tipo": "comida"
+        },
+        {
+          "id": 4,
+          "hora": "14:00 - 15:30",
+          "nombre": "Actividades por Grupos",
+          "descripcion": "Tiempo de integración y dinámicas grupales",
+          "ubicacion": "Áreas Designadas",
+          "tipo": "recreacion"
+        },
+        {
+          "id": 5,
+          "hora": "16:00 - 17:30",
+          "nombre": "Taller: Evangelismo Efectivo",
+          "descripcion": "Estrategias modernas para compartir el evangelio",
+          "ubicacion": "Sala de Conferencias B",
+          "tipo": "taller"
+        },
+        {
+          "id": 6,
+          "hora": "19:00 - 21:00",
+          "nombre": "Culto Nocturno",
+          "descripcion": "Adoración y mensaje inspiracional",
+          "ubicacion": "Auditorio Principal",
+          "tipo": "culto"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-12-21",
+      "nombre": "Día 2 - Sábado",
+      "actividades": [
+        {
+          "id": 7,
+          "hora": "8:00 - 9:00",
+          "nombre": "Devocional Matutino",
+          "descripcion": "Tiempo de oración y meditación",
+          "ubicacion": "Jardín de Oración",
+          "tipo": "culto"
+        },
+        {
+          "id": 8,
+          "hora": "9:30 - 11:00",
+          "nombre": "Conferencia Magistral",
+          "descripcion": "Tema: 'La Iglesia del Siglo XXI'",
+          "ubicacion": "Auditorio Principal",
+          "tipo": "especial"
+        },
+        {
+          "id": 9,
+          "hora": "11:30 - 12:30",
+          "nombre": "Taller: Ministerio Juvenil",
+          "descripcion": "Alcanzando a la nueva generación",
+          "ubicacion": "Sala Juvenil",
+          "tipo": "taller"
+        },
+        {
+          "id": 10,
+          "hora": "12:30 - 14:00",
+          "nombre": "Almuerzo",
+          "descripcion": "Tiempo de comunión y alimentación",
+          "ubicacion": "Comedor Principal",
+          "tipo": "comida"
+        },
+        {
+          "id": 11,
+          "hora": "14:30 - 16:00",
+          "nombre": "Competencias Deportivas",
+          "descripcion": "Torneos inter-grupos",
+          "ubicacion": "Cancha Deportiva",
+          "tipo": "recreacion"
+        },
+        {
+          "id": 12,
+          "hora": "16:30 - 18:00",
+          "nombre": "Taller: Ministerio de Música",
+          "descripcion": "Adoración con excelencia",
+          "ubicacion": "Salón de Música",
+          "tipo": "taller"
+        },
+        {
+          "id": 13,
+          "hora": "19:30 - 21:30",
+          "nombre": "Noche Cultural",
+          "descripcion": "Presentaciones artísticas y talentos",
+          "ubicacion": "Auditorio Principal",
+          "tipo": "especial"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-12-22",
+      "nombre": "Día 3 - Domingo",
+      "actividades": [
+        {
+          "id": 14,
+          "hora": "8:30 - 9:30",
+          "nombre": "Desayuno Comunitario",
+          "descripcion": "Último desayuno juntos",
+          "ubicacion": "Comedor Principal",
+          "tipo": "comida"
+        },
+        {
+          "id": 15,
+          "hora": "10:00 - 11:30",
+          "nombre": "Culto Dominical",
+          "descripcion": "Mensaje pastoral y comunión",
+          "ubicacion": "Auditorio Principal",
+          "tipo": "culto"
+        },
+        {
+          "id": 16,
+          "hora": "12:00 - 13:00",
+          "nombre": "Ceremonia de Graduación",
+          "descripcion": "Entrega de certificados y reconocimientos",
+          "ubicacion": "Auditorio Principal",
+          "tipo": "especial"
+        },
+        {
+          "id": 17,
+          "hora": "13:00 - 14:30",
+          "nombre": "Almuerzo de Despedida",
+          "descripcion": "Última comida juntos",
+          "ubicacion": "Comedor Principal",
+          "tipo": "comida"
+        },
+        {
+          "id": 18,
+          "hora": "15:00 - 16:30",
+          "nombre": "Tiempo de Testimonios",
+          "descripcion": "Compartiendo experiencias y bendiciones",
+          "ubicacion": "Auditorio Principal",
+          "tipo": "especial"
+        },
+        {
+          "id": 19,
+          "hora": "17:00 - 18:00",
+          "nombre": "Culto de Clausura",
+          "descripcion": "Despedida y bendición final",
+          "ubicacion": "Auditorio Principal",
+          "tipo": "culto"
+        }
+      ]
+    }
+  ],
+  "tipoColors": {
+    "culto": "bg-purple-100 text-purple-800 border-purple-200",
+    "taller": "bg-blue-100 text-blue-800 border-blue-200",
+    "comida": "bg-green-100 text-green-800 border-green-200",
+    "recreacion": "bg-orange-100 text-orange-800 border-orange-200",
+    "especial": "bg-red-100 text-red-800 border-red-200"
+  },
+  "tipoIcons": {
+    "culto": "🙏",
+    "taller": "📚",
+    "comida": "🍽️",
+    "recreacion": "🎮",
+    "especial": "⭐"
+  }
+}

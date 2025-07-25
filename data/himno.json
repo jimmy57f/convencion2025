@@ -1,0 +1,65 @@
+{
+  "himno": {
+    "titulo": "Unidos en Cristo",
+    "subtitulo": "Himno Lema de la Convención 2024",
+    "letra": [
+      {
+        "estrofa": 1,
+        "versos": [
+          "Unidos en Cristo, hermanos del alma,",
+          "Caminamos juntos en la fe,",
+          "Con amor sincero y esperanza firme,",
+          "Proclamamos Su verdad y ley."
+        ]
+      },
+      {
+        "estrofa": "Coro",
+        "versos": [
+          "¡Gloria al Señor que nos ha llamado!",
+          "¡Gloria al Rey que nos redimió!",
+          "Unidos cantamos Su santo nombre,",
+          "Cristo Jesús, nuestro Salvador."
+        ]
+      },
+      {
+        "estrofa": 2,
+        "versos": [
+          "En la convención nos congregamos,",
+          "Para adorar al Dios eternal,",
+          "Como familia nos abrazamos,",
+          "En el amor celestial."
+        ]
+      },
+      {
+        "estrofa": "Coro",
+        "versos": [
+          "¡Gloria al Señor que nos ha llamado!",
+          "¡Gloria al Rey que nos redimió!",
+          "Unidos cantamos Su santo nombre,",
+          "Cristo Jesús, nuestro Salvador."
+        ]
+      },
+      {
+        "estrofa": 3,
+        "versos": [
+          "Que este encuentro sea de bendición,",
+          "Para crecer en Su voluntad,",
+          "Y que llevemos Su comisión,",
+          "A toda la humanidad."
+        ]
+      },
+      {
+        "estrofa": "Coro Final",
+        "versos": [
+          "¡Gloria al Señor que nos ha llamado!",
+          "¡Gloria al Rey que nos redimió!",
+          "Unidos cantamos Su santo nombre,",
+          "Cristo Jesús, nuestro Salvador.",
+          "¡Cristo Jesús, nuestro Salvador!"
+        ]
+      }
+    ],
+    "autor": "Coro de la Convención",
+    "año": "2024"
+  }
+}

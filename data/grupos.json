@@ -1,0 +1,85 @@
+{
+  "grupos": [
+    {
+      "id": 1,
+      "nombre": "Luz Divina",
+      "color": "from-yellow-400 to-orange-500",
+      "lideres": ["María González", "José Pérez"],
+      "miembros": [
+        { "id": 1, "nombre": "Ana Martínez" },
+        { "id": 2, "nombre": "Carlos Rodríguez" },
+        { "id": 3, "nombre": "Elena Vásquez" },
+        { "id": 4, "nombre": "David López" },
+        { "id": 5, "nombre": "Sofia Herrera" },
+        { "id": 6, "nombre": "Miguel Torres" }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Esperanza Eterna",
+      "color": "from-blue-400 to-purple-500",
+      "lideres": ["Pastor Juan Carlos", "Hermana Patricia"],
+      "miembros": [
+        { "id": 7, "nombre": "Roberto Sánchez" },
+        { "id": 8, "nombre": "Carmen Ruiz" },
+        { "id": 9, "nombre": "Fernando Castro" },
+        { "id": 10, "nombre": "Luisa Morales" },
+        { "id": 11, "nombre": "Andrés Jiménez" }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Fe Renovada",
+      "color": "from-green-400 to-teal-500",
+      "lideres": ["Hermano Carlos", "Hermana Isabel"],
+      "miembros": [
+        { "id": 12, "nombre": "Alejandra Silva" },
+        { "id": 13, "nombre": "Ricardo Mendoza" },
+        { "id": 14, "nombre": "Valeria Ortega" },
+        { "id": 15, "nombre": "Joaquín Vargas" },
+        { "id": 16, "nombre": "Beatriz Romero" },
+        { "id": 17, "nombre": "Gabriel Peña" }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Amor Verdadero",
+      "color": "from-pink-400 to-red-500",
+      "lideres": ["Hermana Rosa", "Hermano Eduardo"],
+      "miembros": [
+        { "id": 18, "nombre": "Daniela Cruz" },
+        { "id": 19, "nombre": "Sebastián Reyes" },
+        { "id": 20, "nombre": "Natalia Guerrero" },
+        { "id": 21, "nombre": "Emilio Ramírez" },
+        { "id": 22, "nombre": "Camila Flores" }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Gracia Abundante",
+      "color": "from-indigo-400 to-blue-600",
+      "lideres": ["Pastor Miguel", "Hermana Lucía"],
+      "miembros": [
+        { "id": 23, "nombre": "Andrea Mejía" },
+        { "id": 24, "nombre": "Cristian Delgado" },
+        { "id": 25, "nombre": "Paola Aguilar" },
+        { "id": 26, "nombre": "Marcos Cordero" },
+        { "id": 27, "nombre": "Isabella Navarro" },
+        { "id": 28, "nombre": "Diego Medina" }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Paz Celestial",
+      "color": "from-cyan-400 to-blue-500",
+      "lideres": ["Hermana Gloria", "Hermano Francisco"],
+      "miembros": [
+        { "id": 29, "nombre": "Valentina Castillo" },
+        { "id": 30, "nombre": "Mateo Ramos" },
+        { "id": 31, "nombre": "Samantha León" },
+        { "id": 32, "nombre": "Nicolás Herrera" },
+        { "id": 33, "nombre": "Abril Montenegro" }
+      ]
+    }
+  ]
+}
